@@ -54,3 +54,15 @@ const product = 8 * 10;
 
 //Деление двух чисел
 const quotient = 66 / 33;
+
+//увеличение числа с помощью ++ ( на 1 значение) 
+let myVar = 87;
+
+// Only change code below this line
+myVar++;
+
+//уменьшение числа с помощью -- ( на 1 значение) 
+let myVar = 11;
+
+// Only change code below this line
+myVar--;
