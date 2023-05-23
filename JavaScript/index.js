@@ -42,3 +42,15 @@ const FCC = "freeCodeCamp"; // Change this line
 let fact = "is cool!"; // Change this line
 fact = "is awesome!";
 console.log(fCC, fact); // Change this line
+
+// Обявление переменной с помощью const ECMAScript6 и присваивание значения с использованием оператора сложения
+const sum = 10 + 10;
+
+// Обявление переменной с помощью const ECMAScript6 и присваивание значения с использованием оператора вычитания
+const difference = 45 - 33;
+
+// Умножение двух чисел
+const product = 8 * 10;
+
+//Деление двух чисел
+const quotient = 66 / 33;
