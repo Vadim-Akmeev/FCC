@@ -66,3 +66,18 @@ let myVar = 11;
 
 // Only change code below this line
 myVar--;
+
+//создание десятичных чисел
+const ourDecimal = 5.7;
+
+// Only change code below this line
+let myDecimal = 5.7;
+
+//Умножение двух десятичных дробей
+const product = 2.0 * 2.5;
+
+//Деление двух десятичных дробей
+const quotient = 4.4 / 2.0; // Change this line
+
+//Поиск остатка
+const remainder = 11 % 3;
