@@ -32,3 +32,7 @@ var titleCaseOver;
 studlyCapVar = 10;
 properCamelCase = "A String";
 titleCaseOver = 9000;
+
+// Обявление переменной с помощью let от ECMAScript6
+let studlyCapVar
+let properCamelCase;
