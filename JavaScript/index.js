@@ -36,3 +36,9 @@ titleCaseOver = 9000;
 // Обявление переменной с помощью let от ECMAScript6
 let studlyCapVar
 let properCamelCase;
+
+// Обявление переменной с помощью let и const ECMAScript6, вывод значений в консоль
+const FCC = "freeCodeCamp"; // Change this line
+let fact = "is cool!"; // Change this line
+fact = "is awesome!";
+console.log(fCC, fact); // Change this line
