@@ -2,4 +2,10 @@
 /*this is 
 add comment*/
 
-var myName;
+var a;
+
+a = 5;
+
+var b;
+
+b = a;
