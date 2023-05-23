@@ -2,3 +2,4 @@
 /*this is 
 add comment*/
 
+var myName;
