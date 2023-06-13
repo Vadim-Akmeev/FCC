@@ -101,3 +101,40 @@ let c = 3;
 a -= 6;
 b -= 15;
 c -= 1;
+
+//умножение с присваиванием
+let a = 5;
+let b = 12;
+let c = 4.6;
+
+//деление с присваиванием
+let a = 48;
+let b = 108;
+let c = 33;
+
+// Only change code below this line
+a /= 12;
+b /=  4;
+c /= 11;
+
+// Only change code below this line
+a *=  5;
+b *= 3;
+c *= 10;
+
+// Экранирование буквенных кавычек
+const sampleStr = "Alan said, \"Peter is learning JavaScript\".";
+
+// Экранирование буквенных кавычек
+const myStr = '<a href="http://www.example.com" target="_blank">Link</a>';
+
+//Объединение строк с помощью оператора Plus
+const myStr = "This is the start. " + "This is the end.";
+
+//Объединение строк с помощью оператора «плюс равно»
+let myStr = 'This is the first sentence. ';
+myStr += 'This is the second sentence.'
+
+//Создание строк с переменными
+const myName = "Vadim";
+const myStr = "My name is " + myName + 'and I am well!';
